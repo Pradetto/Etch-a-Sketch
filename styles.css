@@ -40,8 +40,8 @@ h1{
 
 .box{
     border: 1px solid black;
-    height: calc(600px / 17);
-    width: calc(600px / 17);
+    /* height: calc(600px / 17);
+    width: calc(600px / 17); */
     text-align: center;
     background: white;
 }
@@ -59,9 +59,15 @@ button {
 
 #sliderContainer {
     display: flex;
-    align-items: flex-start;
-    text-align: center;
-    text-emphasis: bold;
+    justify-content: center;
+    font-weight: bold;
+    height: 30px;
+    gap: 10px;
+}
+
+span{
+    display: flex;
+    align-items: center;
 }
 
 
