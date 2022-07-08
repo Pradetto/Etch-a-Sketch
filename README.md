@@ -1,3 +1,3 @@
 # Etch-a-Sketch
 
-www.etchasketch.com
+https://pradetto.github.io/Etch-a-Sketch/
